@@ -7,11 +7,13 @@ module.exports = (controller: string, action: string) => {
     const ip = ctx.ip;
     if ( ctx.session.isLogin ) {
       const uid = ctx.session.user.id;
+      const roleid = ctx.session.roleid;
       const data: any = await ctx.service.permission.action({
         controller,
         action,
       });
-      if ( data && data.enabled === '1' ) {
+
+      if ( data && data.enabled === '1' && data.role_id === roleid) {
         if (method !== 'get') {
           let info: string;
           switch (method) {

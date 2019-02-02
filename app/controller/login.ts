@@ -41,6 +41,7 @@ export default class LoginController extends Controller {
           id: res.id,
           username: res.username,
         };
+        ctx.session.roleid = res.role_id;
         ctx.session.user = data;
         ctx.session.isLogin = true;
         const token = await this.service.actionToken.createToken(data);
@@ -60,9 +61,9 @@ export default class LoginController extends Controller {
         if (app.verifyBcrypt(password, isLogin.password)) {
           data = {
             id: isLogin.id,
-            username: isLogin.username,
-            roleid: isLogin.roleid,
+            username: isLogin.username
           };
+          ctx.session.roleid = isLogin.role_id;
           ctx.session.user = data;
           ctx.session.isLogin = true;
           const token = await this.service.actionToken.createToken(data);
@@ -98,6 +99,7 @@ export default class LoginController extends Controller {
     const { ctx } = this;
     if (ctx.session.isLogin) {
       ctx.session.user = null;
+      ctx.session.roleid = null;
       ctx.session.isLogin = false;
       ctx.helper.toResponse(ctx, 200, null, '成功退出!');
     } else {

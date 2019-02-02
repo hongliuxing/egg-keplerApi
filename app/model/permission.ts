@@ -34,5 +34,9 @@ export default function User (app: Application) {
     collate: 'utf8_general_ci',
   });
 
+  permission.associate = function() {
+    app.model.Permission.belongsTo(app.model.Role, { foreignKey: 'role_id', targetKey: 'id' });
+  }
+
   return permission;
 };

@@ -50,5 +50,9 @@ export default (app: Application) => {
     collate: 'utf8_general_ci',
   });
 
+  role.associate = function() {
+    app.model.Role.hasMany(app.model.Permission, { foreignKey: 'role_id' });
+  }
+
   return role;
 };
