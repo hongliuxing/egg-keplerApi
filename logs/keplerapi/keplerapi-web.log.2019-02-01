@@ -1,0 +1,101 @@
+2019-01-31 19:33:00,361 INFO 53213 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 19:36:23,693 INFO 53372 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:04:48,171 INFO 53372 [egg-sequelize](4ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:04,138 INFO 53372 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:05,693 INFO 53372 [egg-sequelize](1ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:06,772 INFO 53372 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:20,866 INFO 53372 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:21,608 INFO 53372 [egg-sequelize](1ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:21,999 INFO 53372 [egg-sequelize](1ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:23,342 INFO 53372 [egg-sequelize](1ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:24,034 INFO 53372 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:05:57,063 INFO 53551 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:05:58,746 INFO 53559 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:05:58,981 INFO 53559 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:14,201 INFO 53559 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:14,891 INFO 53559 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:15,254 INFO 53559 [egg-sequelize](1ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:28,159 INFO 53579 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:06:29,410 INFO 53579 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:29,822 INFO 53587 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:06:37,506 INFO 53587 [egg-sequelize](2ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:06:52,265 INFO 53598 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:06:53,942 INFO 53606 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:06:54,074 INFO 53606 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:07:09,918 INFO 53615 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:07:12,381 INFO 53615 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:07:12,390 INFO 53615 [egg-sequelize](2ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users`;
+2019-01-31 22:07:13,487 INFO 53625 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:07:18,966 INFO 53633 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:07:20,663 INFO 53634 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:13:23,294 INFO 53700 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:13:25,028 INFO 53708 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:13:50,554 INFO 53718 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:13:55,618 INFO 53736 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:13:59,690 INFO 53746 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:15:12,591 INFO 53756 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:19:15,725 INFO 53822 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:19:22,263 INFO 53840 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:19:31,018 INFO 53861 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:19:45,114 INFO 53871 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:20:16,324 INFO 53898 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:20:31,452 INFO 53917 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:20:54,221 INFO 53944 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:21:10,129 INFO 53962 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:21:13,737 INFO 53970 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:21:30,964 INFO 54138 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:21:35,222 INFO 54138 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-01-31 22:21:35,229 INFO 54138 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users`;
+2019-01-31 22:25:38,637 INFO 54172 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:27:43,558 INFO 54205 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:27:45,199 INFO 54214 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:29:53,509 INFO 54226 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 22:30:14,281 INFO 54393 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:33:20,387 INFO 56158 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:35:07,502 ERROR 56158 [-/127.0.0.1/-/12ms GET /api/logout] nodejs.TypeError: Cannot read property 'eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=' of null
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Object.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/app.js:14:31)
+    at ContextSession.initFromExternal (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/lib/context.js:89:35)
+    at session (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/index.js:39:32)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-bodyparser/index.js:86:11)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+
+pid: 56158
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 23:36:15,866 INFO 56190 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:36:17,513 INFO 56199 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:36:34,365 INFO 56208 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:36:35,980 INFO 56216 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:36:41,687 ERROR 56216 [-/127.0.0.1/-/17ms POST /api/login] nodejs.TypeError: Cannot read property 'eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=' of null
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Object.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/app.js:14:31)
+    at ContextSession.initFromExternal (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/lib/context.js:89:35)
+    at session (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/index.js:39:32)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-bodyparser/index.js:86:11)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+
+pid: 56216
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 23:37:47,221 INFO 56229 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-01-31 23:37:52,291 INFO 56229 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users` WHERE `kepler_users`.`username` = 'wscart';
+2019-02-01 22:03:01,589 INFO 57591 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:32:33,088 INFO 59923 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:32:40,536 INFO 59945 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:32:47,310 INFO 59959 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:32:54,462 INFO 59980 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:33:02,216 INFO 59992 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:33:08,989 INFO 59992 [egg-sequelize](4ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users` WHERE `kepler_users`.`username` = 'wscart';
+2019-02-01 23:33:30,992 INFO 60135 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2019-02-01 23:33:35,249 INFO 60135 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users` WHERE `kepler_users`.`username` = 'wscart';
+2019-02-01 23:33:40,610 INFO 60135 [egg-sequelize](3ms) Executed (default): SELECT `id`, `type`, `controller`, `action`, `enabled`, `policy`, `created_at`, `updated_at` FROM `kepler_users_permissions` AS `kepler_users_permission` WHERE `kepler_users_permission`.`controller` = 'UsersController' AND `kepler_users_permission`.`action` = 'fetch' LIMIT 1;
+2019-02-01 23:33:40,615 INFO 60135 [egg-sequelize](2ms) Executed (default): SELECT `id`, `username`, `nickname`, `password`, `email`, `avatar`, `level`, `enabled`, `created_at`, `updated_at`, `role_id` FROM `kepler_users` AS `kepler_users`;

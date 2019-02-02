@@ -1,0 +1,442 @@
+2019-01-31 19:32:58,079 INFO 53213 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 19:32:58,087 INFO 53213 [egg-multipart] stream mode enable
+2019-01-31 19:32:58,134 INFO 53213 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 19:32:58,417 INFO 53213 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 19:33:00,335 INFO 53213 [egg:core] dump config after load, 3ms
+2019-01-31 19:33:00,343 INFO 53213 [egg-redis] client connect success
+2019-01-31 19:33:00,351 INFO 53213 [egg-watcher:application] watcher start success
+2019-01-31 19:33:00,353 INFO 53213 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 19:33:00 GMT+0800 (GMT+08:00)
+2019-01-31 19:33:00,366 INFO 53213 [egg:core] dump config after ready, 5ms
+2019-01-31 19:36:22,624 INFO 53372 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 19:36:22,662 INFO 53372 [egg-multipart] stream mode enable
+2019-01-31 19:36:22,943 INFO 53372 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 19:36:23,532 INFO 53372 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 19:36:23,637 INFO 53372 [egg:core] dump config after load, 5ms
+2019-01-31 19:36:23,656 INFO 53372 [egg-redis] client connect success
+2019-01-31 19:36:23,665 INFO 53372 [egg-watcher:application] watcher start success
+2019-01-31 19:36:23,676 INFO 53372 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 19:36:23 GMT+0800 (GMT+08:00)
+2019-01-31 19:36:23,702 INFO 53372 [egg:core] dump config after ready, 5ms
+2019-01-31 19:46:36,796 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 19:56:52,831 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:06:48,892 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 20:06:48,892 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:17:05,900 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 20:17:05,900 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:27:03,002 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 20:27:03,002 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:37:20,046 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 20:37:20,046 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:47:56,072 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 20:47:56,072 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 20:58:13,112 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 21:08:10,102 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 21:08:10,102 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 21:18:27,111 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 21:28:25,002 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 21:28:25,003 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 21:38:41,062 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 21:38:41,062 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 21:49:19,069 WARN 53372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-31 21:49:19,069 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 22:04:13,098 WARN 53372 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-31 22:05:54,256 INFO 53551 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:05:54,303 INFO 53551 [egg-multipart] stream mode enable
+2019-01-31 22:05:54,692 INFO 53551 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:05:56,985 INFO 53551 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:05:57,006 INFO 53551 [egg:core] dump config after load, 6ms
+2019-01-31 22:05:57,025 INFO 53551 [egg-redis] client connect success
+2019-01-31 22:05:57,028 INFO 53551 [egg-watcher:application] watcher start success
+2019-01-31 22:05:57,045 INFO 53551 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:05:57 GMT+0800 (GMT+08:00)
+2019-01-31 22:05:57,071 INFO 53551 [egg:core] dump config after ready, 5ms
+2019-01-31 22:05:58,006 INFO 53559 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:05:58,057 INFO 53559 [egg-multipart] stream mode enable
+2019-01-31 22:05:58,361 INFO 53559 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:05:58,673 INFO 53559 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:05:58,692 INFO 53559 [egg:core] dump config after load, 6ms
+2019-01-31 22:05:58,710 INFO 53559 [egg-redis] client connect success
+2019-01-31 22:05:58,718 INFO 53559 [egg-watcher:application] watcher start success
+2019-01-31 22:05:58,730 INFO 53559 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:05:58 GMT+0800 (GMT+08:00)
+2019-01-31 22:05:58,755 INFO 53559 [egg:core] dump config after ready, 5ms
+2019-01-31 22:06:25,766 INFO 53579 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:06:25,811 INFO 53579 [egg-multipart] stream mode enable
+2019-01-31 22:06:26,092 INFO 53579 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:06:28,075 INFO 53579 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:06:28,095 INFO 53579 [egg:core] dump config after load, 8ms
+2019-01-31 22:06:28,121 INFO 53579 [egg-redis] client connect success
+2019-01-31 22:06:28,131 INFO 53579 [egg-watcher:application] watcher start success
+2019-01-31 22:06:28,141 INFO 53579 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:06:28 GMT+0800 (GMT+08:00)
+2019-01-31 22:06:28,168 INFO 53579 [egg:core] dump config after ready, 5ms
+2019-01-31 22:06:29,105 INFO 53587 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:06:29,147 INFO 53587 [egg-multipart] stream mode enable
+2019-01-31 22:06:29,443 INFO 53587 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:06:29,743 INFO 53587 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:06:29,762 INFO 53587 [egg:core] dump config after load, 6ms
+2019-01-31 22:06:29,782 INFO 53587 [egg-redis] client connect success
+2019-01-31 22:06:29,792 INFO 53587 [egg-watcher:application] watcher start success
+2019-01-31 22:06:29,804 INFO 53587 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:06:29 GMT+0800 (GMT+08:00)
+2019-01-31 22:06:29,832 INFO 53587 [egg:core] dump config after ready, 6ms
+2019-01-31 22:06:49,823 INFO 53598 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:06:49,867 INFO 53598 [egg-multipart] stream mode enable
+2019-01-31 22:06:50,146 INFO 53598 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:06:52,189 INFO 53598 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:06:52,207 INFO 53598 [egg:core] dump config after load, 5ms
+2019-01-31 22:06:52,227 INFO 53598 [egg-redis] client connect success
+2019-01-31 22:06:52,236 INFO 53598 [egg-watcher:application] watcher start success
+2019-01-31 22:06:52,246 INFO 53598 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:06:52 GMT+0800 (GMT+08:00)
+2019-01-31 22:06:52,273 INFO 53598 [egg:core] dump config after ready, 4ms
+2019-01-31 22:06:53,221 INFO 53606 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:06:53,270 INFO 53606 [egg-multipart] stream mode enable
+2019-01-31 22:06:53,582 INFO 53606 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:06:53,869 INFO 53606 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:06:53,886 INFO 53606 [egg:core] dump config after load, 5ms
+2019-01-31 22:06:53,905 INFO 53606 [egg-redis] client connect success
+2019-01-31 22:06:53,914 INFO 53606 [egg-watcher:application] watcher start success
+2019-01-31 22:06:53,924 INFO 53606 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:06:53 GMT+0800 (GMT+08:00)
+2019-01-31 22:06:53,951 INFO 53606 [egg:core] dump config after ready, 6ms
+2019-01-31 22:07:07,352 INFO 53615 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:07:07,398 INFO 53615 [egg-multipart] stream mode enable
+2019-01-31 22:07:07,684 INFO 53615 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:07:09,840 INFO 53615 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:07:09,857 INFO 53615 [egg:core] dump config after load, 5ms
+2019-01-31 22:07:09,876 INFO 53615 [egg-redis] client connect success
+2019-01-31 22:07:09,885 INFO 53615 [egg-watcher:application] watcher start success
+2019-01-31 22:07:09,896 INFO 53615 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:07:09 GMT+0800 (GMT+08:00)
+2019-01-31 22:07:09,933 INFO 53615 [egg:core] dump config after ready, 8ms
+2019-01-31 22:07:10,876 INFO 53625 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:07:10,917 INFO 53625 [egg-multipart] stream mode enable
+2019-01-31 22:07:11,220 INFO 53625 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:07:13,410 INFO 53625 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:07:13,427 INFO 53625 [egg:core] dump config after load, 5ms
+2019-01-31 22:07:13,448 INFO 53625 [egg-redis] client connect success
+2019-01-31 22:07:13,458 INFO 53625 [egg-watcher:application] watcher start success
+2019-01-31 22:07:13,469 INFO 53625 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:07:13 GMT+0800 (GMT+08:00)
+2019-01-31 22:07:13,496 INFO 53625 [egg:core] dump config after ready, 5ms
+2019-01-31 22:07:18,223 INFO 53633 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:07:18,270 INFO 53633 [egg-multipart] stream mode enable
+2019-01-31 22:07:18,578 INFO 53633 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:07:18,893 INFO 53633 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:07:18,910 INFO 53633 [egg:core] dump config after load, 5ms
+2019-01-31 22:07:18,929 INFO 53633 [egg-redis] client connect success
+2019-01-31 22:07:18,939 INFO 53633 [egg-watcher:application] watcher start success
+2019-01-31 22:07:18,948 INFO 53633 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:07:18 GMT+0800 (GMT+08:00)
+2019-01-31 22:07:18,976 INFO 53633 [egg:core] dump config after ready, 5ms
+2019-01-31 22:07:19,944 INFO 53634 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:07:19,991 INFO 53634 [egg-multipart] stream mode enable
+2019-01-31 22:07:20,292 INFO 53634 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:07:20,589 INFO 53634 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:07:20,608 INFO 53634 [egg:core] dump config after load, 6ms
+2019-01-31 22:07:20,627 INFO 53634 [egg-redis] client connect success
+2019-01-31 22:07:20,636 INFO 53634 [egg-watcher:application] watcher start success
+2019-01-31 22:07:20,645 INFO 53634 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:07:20 GMT+0800 (GMT+08:00)
+2019-01-31 22:07:20,671 INFO 53634 [egg:core] dump config after ready, 5ms
+2019-01-31 22:13:22,349 INFO 53700 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:13:22,400 INFO 53700 [egg-multipart] stream mode enable
+2019-01-31 22:13:22,775 INFO 53700 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:13:23,210 INFO 53700 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:13:23,233 INFO 53700 [egg:core] dump config after load, 5ms
+2019-01-31 22:13:23,253 INFO 53700 [egg-redis] client connect success
+2019-01-31 22:13:23,262 INFO 53700 [egg-watcher:application] watcher start success
+2019-01-31 22:13:23,277 INFO 53700 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:13:23 GMT+0800 (GMT+08:00)
+2019-01-31 22:13:23,302 INFO 53700 [egg:core] dump config after ready, 5ms
+2019-01-31 22:13:24,280 INFO 53708 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:13:24,325 INFO 53708 [egg-multipart] stream mode enable
+2019-01-31 22:13:24,640 INFO 53708 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:13:24,955 INFO 53708 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:13:24,973 INFO 53708 [egg:core] dump config after load, 5ms
+2019-01-31 22:13:24,992 INFO 53708 [egg-redis] client connect success
+2019-01-31 22:13:25,001 INFO 53708 [egg-watcher:application] watcher start success
+2019-01-31 22:13:25,011 INFO 53708 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:13:25 GMT+0800 (GMT+08:00)
+2019-01-31 22:13:25,038 INFO 53708 [egg:core] dump config after ready, 6ms
+2019-01-31 22:13:49,629 INFO 53718 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:13:49,675 INFO 53718 [egg-multipart] stream mode enable
+2019-01-31 22:13:50,045 INFO 53718 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:13:50,480 INFO 53718 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:13:50,499 INFO 53718 [egg:core] dump config after load, 5ms
+2019-01-31 22:13:50,519 INFO 53718 [egg-redis] client connect success
+2019-01-31 22:13:50,522 INFO 53718 [egg-watcher:application] watcher start success
+2019-01-31 22:13:50,538 INFO 53718 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:13:50 GMT+0800 (GMT+08:00)
+2019-01-31 22:13:50,563 INFO 53718 [egg:core] dump config after ready, 5ms
+2019-01-31 22:13:54,883 INFO 53736 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:13:54,932 INFO 53736 [egg-multipart] stream mode enable
+2019-01-31 22:13:55,239 INFO 53736 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:13:55,544 INFO 53736 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:13:55,562 INFO 53736 [egg:core] dump config after load, 5ms
+2019-01-31 22:13:55,580 INFO 53736 [egg-redis] client connect success
+2019-01-31 22:13:55,590 INFO 53736 [egg-watcher:application] watcher start success
+2019-01-31 22:13:55,600 INFO 53736 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:13:55 GMT+0800 (GMT+08:00)
+2019-01-31 22:13:55,627 INFO 53736 [egg:core] dump config after ready, 6ms
+2019-01-31 22:13:58,949 INFO 53746 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:13:58,995 INFO 53746 [egg-multipart] stream mode enable
+2019-01-31 22:13:59,318 INFO 53746 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:13:59,615 INFO 53746 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:13:59,632 INFO 53746 [egg:core] dump config after load, 5ms
+2019-01-31 22:13:59,651 INFO 53746 [egg-redis] client connect success
+2019-01-31 22:13:59,661 INFO 53746 [egg-watcher:application] watcher start success
+2019-01-31 22:13:59,671 INFO 53746 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:13:59 GMT+0800 (GMT+08:00)
+2019-01-31 22:13:59,699 INFO 53746 [egg:core] dump config after ready, 5ms
+2019-01-31 22:15:11,878 INFO 53756 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:15:11,922 INFO 53756 [egg-multipart] stream mode enable
+2019-01-31 22:15:12,215 INFO 53756 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:15:12,515 INFO 53756 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:15:12,533 INFO 53756 [egg:core] dump config after load, 5ms
+2019-01-31 22:15:12,554 INFO 53756 [egg-redis] client connect success
+2019-01-31 22:15:12,557 INFO 53756 [egg-watcher:application] watcher start success
+2019-01-31 22:15:12,575 INFO 53756 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:15:12 GMT+0800 (GMT+08:00)
+2019-01-31 22:15:12,600 INFO 53756 [egg:core] dump config after ready, 5ms
+2019-01-31 22:19:14,826 INFO 53822 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:19:14,873 INFO 53822 [egg-multipart] stream mode enable
+2019-01-31 22:19:15,234 INFO 53822 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:19:15,647 INFO 53822 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:19:15,668 INFO 53822 [egg:core] dump config after load, 5ms
+2019-01-31 22:19:15,687 INFO 53822 [egg-watcher:application] watcher start success
+2019-01-31 22:19:15,689 INFO 53822 [egg-redis] client connect success
+2019-01-31 22:19:15,706 INFO 53822 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:19:15 GMT+0800 (GMT+08:00)
+2019-01-31 22:19:15,734 INFO 53822 [egg:core] dump config after ready, 5ms
+2019-01-31 22:19:21,507 INFO 53840 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:19:21,553 INFO 53840 [egg-multipart] stream mode enable
+2019-01-31 22:19:21,859 INFO 53840 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:19:22,181 INFO 53840 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:19:22,202 INFO 53840 [egg:core] dump config after load, 5ms
+2019-01-31 22:19:22,223 INFO 53840 [egg-redis] client connect success
+2019-01-31 22:19:22,233 INFO 53840 [egg-watcher:application] watcher start success
+2019-01-31 22:19:22,244 INFO 53840 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:19:22 GMT+0800 (GMT+08:00)
+2019-01-31 22:19:22,272 INFO 53840 [egg:core] dump config after ready, 5ms
+2019-01-31 22:19:30,295 INFO 53861 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:19:30,343 INFO 53861 [egg-multipart] stream mode enable
+2019-01-31 22:19:30,639 INFO 53861 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:19:30,932 INFO 53861 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:19:30,959 INFO 53861 [egg:core] dump config after load, 16ms
+2019-01-31 22:19:30,979 INFO 53861 [egg-redis] client connect success
+2019-01-31 22:19:30,988 INFO 53861 [egg-watcher:application] watcher start success
+2019-01-31 22:19:31,000 INFO 53861 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:19:31 GMT+0800 (GMT+08:00)
+2019-01-31 22:19:31,027 INFO 53861 [egg:core] dump config after ready, 5ms
+2019-01-31 22:19:42,485 INFO 53871 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:19:42,527 INFO 53871 [egg-multipart] stream mode enable
+2019-01-31 22:19:44,737 INFO 53871 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:19:45,041 INFO 53871 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:19:45,059 INFO 53871 [egg:core] dump config after load, 5ms
+2019-01-31 22:19:45,077 INFO 53871 [egg-redis] client connect success
+2019-01-31 22:19:45,087 INFO 53871 [egg-watcher:application] watcher start success
+2019-01-31 22:19:45,097 INFO 53871 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:19:45 GMT+0800 (GMT+08:00)
+2019-01-31 22:19:45,122 INFO 53871 [egg:core] dump config after ready, 4ms
+2019-01-31 22:20:13,536 INFO 53898 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:20:13,585 INFO 53898 [egg-multipart] stream mode enable
+2019-01-31 22:20:15,819 INFO 53898 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:20:16,246 INFO 53898 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:20:16,266 INFO 53898 [egg:core] dump config after load, 5ms
+2019-01-31 22:20:16,285 INFO 53898 [egg-redis] client connect success
+2019-01-31 22:20:16,295 INFO 53898 [egg-watcher:application] watcher start success
+2019-01-31 22:20:16,307 INFO 53898 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:20:16 GMT+0800 (GMT+08:00)
+2019-01-31 22:20:16,334 INFO 53898 [egg:core] dump config after ready, 6ms
+2019-01-31 22:20:28,880 INFO 53917 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:20:28,926 INFO 53917 [egg-multipart] stream mode enable
+2019-01-31 22:20:31,066 INFO 53917 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:20:31,372 INFO 53917 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:20:31,391 INFO 53917 [egg:core] dump config after load, 5ms
+2019-01-31 22:20:31,413 INFO 53917 [egg-redis] client connect success
+2019-01-31 22:20:31,423 INFO 53917 [egg-watcher:application] watcher start success
+2019-01-31 22:20:31,434 INFO 53917 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:20:31 GMT+0800 (GMT+08:00)
+2019-01-31 22:20:31,462 INFO 53917 [egg:core] dump config after ready, 6ms
+2019-01-31 22:20:51,575 INFO 53944 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:20:51,620 INFO 53944 [egg-multipart] stream mode enable
+2019-01-31 22:20:53,730 INFO 53944 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:20:54,145 INFO 53944 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:20:54,164 INFO 53944 [egg:core] dump config after load, 5ms
+2019-01-31 22:20:54,184 INFO 53944 [egg-redis] client connect success
+2019-01-31 22:20:54,192 INFO 53944 [egg-watcher:application] watcher start success
+2019-01-31 22:20:54,204 INFO 53944 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:20:54 GMT+0800 (GMT+08:00)
+2019-01-31 22:20:54,230 INFO 53944 [egg:core] dump config after ready, 5ms
+2019-01-31 22:21:07,311 INFO 53962 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:21:07,352 INFO 53962 [egg-multipart] stream mode enable
+2019-01-31 22:21:09,643 INFO 53962 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:21:10,054 INFO 53962 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:21:10,073 INFO 53962 [egg:core] dump config after load, 4ms
+2019-01-31 22:21:10,092 INFO 53962 [egg-redis] client connect success
+2019-01-31 22:21:10,101 INFO 53962 [egg-watcher:application] watcher start success
+2019-01-31 22:21:10,112 INFO 53962 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:21:10 GMT+0800 (GMT+08:00)
+2019-01-31 22:21:10,137 INFO 53962 [egg:core] dump config after ready, 4ms
+2019-01-31 22:21:13,002 INFO 53970 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:21:13,047 INFO 53970 [egg-multipart] stream mode enable
+2019-01-31 22:21:13,338 INFO 53970 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:21:13,651 INFO 53970 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:21:13,670 INFO 53970 [egg:core] dump config after load, 5ms
+2019-01-31 22:21:13,690 INFO 53970 [egg-redis] client connect success
+2019-01-31 22:21:13,699 INFO 53970 [egg-watcher:application] watcher start success
+2019-01-31 22:21:13,711 INFO 53970 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:21:13 GMT+0800 (GMT+08:00)
+2019-01-31 22:21:13,752 INFO 53970 [egg:core] dump config after ready, 7ms
+2019-01-31 22:21:30,289 INFO 54138 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:21:30,332 INFO 54138 [egg-multipart] stream mode enable
+2019-01-31 22:21:30,623 INFO 54138 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:21:30,894 INFO 54138 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:21:30,911 INFO 54138 [egg:core] dump config after load, 6ms
+2019-01-31 22:21:30,930 INFO 54138 [egg-redis] client connect success
+2019-01-31 22:21:30,938 INFO 54138 [egg-watcher:application] watcher start success
+2019-01-31 22:21:30,947 INFO 54138 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:21:30 GMT+0800 (GMT+08:00)
+2019-01-31 22:21:30,973 INFO 54138 [egg:core] dump config after ready, 5ms
+2019-01-31 22:25:37,871 INFO 54172 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:25:37,917 INFO 54172 [egg-multipart] stream mode enable
+2019-01-31 22:25:38,230 INFO 54172 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:25:38,564 INFO 54172 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:25:38,582 INFO 54172 [egg:core] dump config after load, 6ms
+2019-01-31 22:25:38,600 INFO 54172 [egg-redis] client connect success
+2019-01-31 22:25:38,608 INFO 54172 [egg-watcher:application] watcher start success
+2019-01-31 22:25:38,621 INFO 54172 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:25:38 GMT+0800 (GMT+08:00)
+2019-01-31 22:25:38,646 INFO 54172 [egg:core] dump config after ready, 4ms
+2019-01-31 22:27:42,903 INFO 54205 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:27:42,945 INFO 54205 [egg-multipart] stream mode enable
+2019-01-31 22:27:43,209 INFO 54205 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:27:43,491 INFO 54205 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:27:43,507 INFO 54205 [egg:core] dump config after load, 4ms
+2019-01-31 22:27:43,525 INFO 54205 [egg-redis] client connect success
+2019-01-31 22:27:43,527 INFO 54205 [egg-watcher:application] watcher start success
+2019-01-31 22:27:43,543 INFO 54205 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:27:43 GMT+0800 (GMT+08:00)
+2019-01-31 22:27:43,566 INFO 54205 [egg:core] dump config after ready, 5ms
+2019-01-31 22:27:44,482 INFO 54214 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:27:44,527 INFO 54214 [egg-multipart] stream mode enable
+2019-01-31 22:27:44,824 INFO 54214 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:27:45,125 INFO 54214 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:27:45,141 INFO 54214 [egg:core] dump config after load, 4ms
+2019-01-31 22:27:45,162 INFO 54214 [egg-redis] client connect success
+2019-01-31 22:27:45,172 INFO 54214 [egg-watcher:application] watcher start success
+2019-01-31 22:27:45,181 INFO 54214 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:27:45 GMT+0800 (GMT+08:00)
+2019-01-31 22:27:45,208 INFO 54214 [egg:core] dump config after ready, 5ms
+2019-01-31 22:29:51,074 INFO 54226 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:29:51,117 INFO 54226 [egg-multipart] stream mode enable
+2019-01-31 22:29:51,397 INFO 54226 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:29:51,681 INFO 54226 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:29:53,453 INFO 54226 [egg:core] dump config after load, 5ms
+2019-01-31 22:29:53,473 INFO 54226 [egg-redis] client connect success
+2019-01-31 22:29:53,476 INFO 54226 [egg-watcher:application] watcher start success
+2019-01-31 22:29:53,494 INFO 54226 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:29:53 GMT+0800 (GMT+08:00)
+2019-01-31 22:29:53,520 INFO 54226 [egg:core] dump config after ready, 7ms
+2019-01-31 22:30:13,451 INFO 54393 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 22:30:13,496 INFO 54393 [egg-multipart] stream mode enable
+2019-01-31 22:30:13,796 INFO 54393 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 22:30:14,206 INFO 54393 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 22:30:14,228 INFO 54393 [egg:core] dump config after load, 5ms
+2019-01-31 22:30:14,246 INFO 54393 [egg-redis] client connect success
+2019-01-31 22:30:14,254 INFO 54393 [egg-watcher:application] watcher start success
+2019-01-31 22:30:14,264 INFO 54393 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 22:30:14 GMT+0800 (GMT+08:00)
+2019-01-31 22:30:14,290 INFO 54393 [egg:core] dump config after ready, 5ms
+2019-01-31 23:33:19,598 INFO 56158 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:33:19,640 INFO 56158 [egg-multipart] stream mode enable
+2019-01-31 23:33:19,924 INFO 56158 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:33:20,314 INFO 56158 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:33:20,334 INFO 56158 [egg:core] dump config after load, 4ms
+2019-01-31 23:33:20,351 INFO 56158 [egg-redis] client connect success
+2019-01-31 23:33:20,360 INFO 56158 [egg-watcher:application] watcher start success
+2019-01-31 23:33:20,369 INFO 56158 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:33:20 GMT+0800 (GMT+08:00)
+2019-01-31 23:33:20,395 INFO 56158 [egg:core] dump config after ready, 5ms
+2019-01-31 23:36:15,115 INFO 56190 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:36:15,155 INFO 56190 [egg-multipart] stream mode enable
+2019-01-31 23:36:15,431 INFO 56190 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:36:15,794 INFO 56190 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:36:15,813 INFO 56190 [egg:core] dump config after load, 5ms
+2019-01-31 23:36:15,831 INFO 56190 [egg-redis] client connect success
+2019-01-31 23:36:15,840 INFO 56190 [egg-watcher:application] watcher start success
+2019-01-31 23:36:15,849 INFO 56190 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:36:15 GMT+0800 (GMT+08:00)
+2019-01-31 23:36:15,875 INFO 56190 [egg:core] dump config after ready, 5ms
+2019-01-31 23:36:16,809 INFO 56199 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:36:16,849 INFO 56199 [egg-multipart] stream mode enable
+2019-01-31 23:36:17,132 INFO 56199 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:36:17,434 INFO 56199 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:36:17,459 INFO 56199 [egg:core] dump config after load, 7ms
+2019-01-31 23:36:17,479 INFO 56199 [egg-redis] client connect success
+2019-01-31 23:36:17,487 INFO 56199 [egg-watcher:application] watcher start success
+2019-01-31 23:36:17,497 INFO 56199 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:36:17 GMT+0800 (GMT+08:00)
+2019-01-31 23:36:17,523 INFO 56199 [egg:core] dump config after ready, 6ms
+2019-01-31 23:36:18,882 WARN 56199 [-/127.0.0.1/-/12ms GET /api/logout] [session][missed] key(eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=)
+2019-01-31 23:36:33,669 INFO 56208 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:36:33,713 INFO 56208 [egg-multipart] stream mode enable
+2019-01-31 23:36:33,997 INFO 56208 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:36:34,296 INFO 56208 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:36:34,313 INFO 56208 [egg:core] dump config after load, 6ms
+2019-01-31 23:36:34,331 INFO 56208 [egg-redis] client connect success
+2019-01-31 23:36:34,333 INFO 56208 [egg-watcher:application] watcher start success
+2019-01-31 23:36:34,350 INFO 56208 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:36:34 GMT+0800 (GMT+08:00)
+2019-01-31 23:36:34,374 INFO 56208 [egg:core] dump config after ready, 5ms
+2019-01-31 23:36:35,296 INFO 56216 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:36:35,340 INFO 56216 [egg-multipart] stream mode enable
+2019-01-31 23:36:35,616 INFO 56216 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:36:35,907 INFO 56216 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:36:35,924 INFO 56216 [egg:core] dump config after load, 6ms
+2019-01-31 23:36:35,944 INFO 56216 [egg-redis] client connect success
+2019-01-31 23:36:35,953 INFO 56216 [egg-watcher:application] watcher start success
+2019-01-31 23:36:35,963 INFO 56216 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:36:35 GMT+0800 (GMT+08:00)
+2019-01-31 23:36:35,989 INFO 56216 [egg:core] dump config after ready, 5ms
+2019-01-31 23:37:46,512 INFO 56229 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-31 23:37:46,556 INFO 56229 [egg-multipart] stream mode enable
+2019-01-31 23:37:46,843 INFO 56229 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-01-31 23:37:47,130 INFO 56229 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-01-31 23:37:47,148 INFO 56229 [egg:core] dump config after load, 6ms
+2019-01-31 23:37:47,178 INFO 56229 [egg-redis] client connect success
+2019-01-31 23:37:47,182 INFO 56229 [egg-watcher:application] watcher start success
+2019-01-31 23:37:47,205 INFO 56229 [egg-redis] instance[0] status OK, redis server currentTime: Thu Jan 31 2019 23:37:47 GMT+0800 (GMT+08:00)
+2019-01-31 23:37:47,229 INFO 56229 [egg:core] dump config after ready, 5ms
+2019-01-31 23:37:52,282 WARN 56229 [-/127.0.0.1/-/25ms POST /api/login] [session][missed] key(eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=)
+2019-02-01 22:02:58,726 INFO 57591 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 22:02:58,774 INFO 57591 [egg-multipart] stream mode enable
+2019-02-01 22:02:59,094 INFO 57591 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 22:02:59,531 INFO 57591 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 22:03:01,522 INFO 57591 [egg:core] dump config after load, 6ms
+2019-02-01 22:03:01,543 INFO 57591 [egg-redis] client connect success
+2019-02-01 22:03:01,555 INFO 57591 [egg-watcher:application] watcher start success
+2019-02-01 22:03:01,569 INFO 57591 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 22:03:01 GMT+0800 (GMT+08:00)
+2019-02-01 22:03:01,601 INFO 57591 [egg:core] dump config after ready, 8ms
+2019-02-01 23:32:31,669 INFO 59923 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:32:31,720 INFO 59923 [egg-multipart] stream mode enable
+2019-02-01 23:32:32,325 INFO 59923 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:32:32,924 INFO 59923 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:32:33,031 INFO 59923 [egg:core] dump config after load, 5ms
+2019-02-01 23:32:33,051 INFO 59923 [egg-redis] client connect success
+2019-02-01 23:32:33,059 INFO 59923 [egg-watcher:application] watcher start success
+2019-02-01 23:32:33,070 INFO 59923 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:32:33 GMT+0800 (GMT+08:00)
+2019-02-01 23:32:33,103 INFO 59923 [egg:core] dump config after ready, 11ms
+2019-02-01 23:32:39,326 INFO 59945 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:32:39,368 INFO 59945 [egg-multipart] stream mode enable
+2019-02-01 23:32:39,837 INFO 59945 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:32:40,365 INFO 59945 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:32:40,478 INFO 59945 [egg:core] dump config after load, 5ms
+2019-02-01 23:32:40,499 INFO 59945 [egg-redis] client connect success
+2019-02-01 23:32:40,508 INFO 59945 [egg-watcher:application] watcher start success
+2019-02-01 23:32:40,520 INFO 59945 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:32:40 GMT+0800 (GMT+08:00)
+2019-02-01 23:32:40,545 INFO 59945 [egg:core] dump config after ready, 5ms
+2019-02-01 23:32:46,220 INFO 59959 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:32:46,261 INFO 59959 [egg-multipart] stream mode enable
+2019-02-01 23:32:46,733 INFO 59959 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:32:47,142 INFO 59959 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:32:47,251 INFO 59959 [egg:core] dump config after load, 5ms
+2019-02-01 23:32:47,270 INFO 59959 [egg-redis] client connect success
+2019-02-01 23:32:47,280 INFO 59959 [egg-watcher:application] watcher start success
+2019-02-01 23:32:47,290 INFO 59959 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:32:47 GMT+0800 (GMT+08:00)
+2019-02-01 23:32:47,320 INFO 59959 [egg:core] dump config after ready, 6ms
+2019-02-01 23:32:53,394 INFO 59980 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:32:53,436 INFO 59980 [egg-multipart] stream mode enable
+2019-02-01 23:32:53,903 INFO 59980 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:32:54,301 INFO 59980 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:32:54,407 INFO 59980 [egg:core] dump config after load, 4ms
+2019-02-01 23:32:54,426 INFO 59980 [egg-redis] client connect success
+2019-02-01 23:32:54,435 INFO 59980 [egg-watcher:application] watcher start success
+2019-02-01 23:32:54,444 INFO 59980 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:32:54 GMT+0800 (GMT+08:00)
+2019-02-01 23:32:54,471 INFO 59980 [egg:core] dump config after ready, 5ms
+2019-02-01 23:33:01,074 INFO 59992 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:33:01,118 INFO 59992 [egg-multipart] stream mode enable
+2019-02-01 23:33:01,606 INFO 59992 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:33:02,042 INFO 59992 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:33:02,159 INFO 59992 [egg:core] dump config after load, 6ms
+2019-02-01 23:33:02,179 INFO 59992 [egg-redis] client connect success
+2019-02-01 23:33:02,188 INFO 59992 [egg-watcher:application] watcher start success
+2019-02-01 23:33:02,198 INFO 59992 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:33:02 GMT+0800 (GMT+08:00)
+2019-02-01 23:33:02,226 INFO 59992 [egg:core] dump config after ready, 5ms
+2019-02-01 23:33:30,319 INFO 60135 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"keplerapi-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-02-01 23:33:30,364 INFO 60135 [egg-multipart] stream mode enable
+2019-02-01 23:33:30,641 INFO 60135 [egg-redis] server connecting redis://:***@localhost:6379/0
+2019-02-01 23:33:30,923 INFO 60135 [egg-static] starting static serve /uploads/ -> /Users/wscart/Documents/sites/node/keplerApi/uploads
+2019-02-01 23:33:30,939 INFO 60135 [egg:core] dump config after load, 5ms
+2019-02-01 23:33:30,956 INFO 60135 [egg-redis] client connect success
+2019-02-01 23:33:30,966 INFO 60135 [egg-watcher:application] watcher start success
+2019-02-01 23:33:30,975 INFO 60135 [egg-redis] instance[0] status OK, redis server currentTime: Fri Feb 01 2019 23:33:30 GMT+0800 (GMT+08:00)
+2019-02-01 23:33:31,002 INFO 60135 [egg:core] dump config after ready, 5ms
+2019-02-01 23:59:59,967 INFO 60135 [egg-logrotator] clean all log before 31 days
+2019-02-02 00:00:00,962 INFO 60135 [egg-logrotator] broadcast log-reload
+2019-02-02 00:00:00,963 INFO 60135 [egg-logrotator] rotate files success by DayRotator, files ["/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/common-error.log -> /Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/common-error.log.2019-02-01","/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/keplerapi-web.log -> /Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/keplerapi-web.log.2019-02-01","/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-web.log -> /Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-web.log.2019-02-01","/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-schedule.log -> /Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-schedule.log.2019-02-01","/Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-agent.log -> /Users/wscart/Documents/sites/node/keplerApi/logs/keplerapi/egg-agent.log.2019-02-01"]

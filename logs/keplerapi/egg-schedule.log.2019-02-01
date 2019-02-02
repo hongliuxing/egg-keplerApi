@@ -1,0 +1,112 @@
+2019-01-31 19:32:58,086 INFO 53213 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 19:32:58,086 INFO 53213 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 19:33:00,369 INFO 53213 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 16019634ms at 2019-02-01 00:00:00.003
+2019-01-31 19:33:00,370 INFO 53213 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 16020630ms at 2019-02-01 00:00:01.000
+2019-01-31 19:36:22,662 INFO 53372 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 19:36:22,662 INFO 53372 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 19:36:23,708 INFO 53360 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15816295ms at 2019-02-01 00:00:00.003
+2019-01-31 19:36:23,708 INFO 53360 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15817292ms at 2019-02-01 00:00:01.000
+2019-01-31 22:05:54,303 INFO 53551 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:05:54,303 INFO 53551 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:05:58,056 INFO 53559 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:05:58,056 INFO 53559 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:06:25,810 INFO 53579 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:06:25,810 INFO 53579 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:06:29,146 INFO 53587 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:06:29,146 INFO 53587 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:06:49,867 INFO 53598 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:06:49,867 INFO 53598 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:06:53,269 INFO 53606 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:06:53,269 INFO 53606 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:07:07,397 INFO 53615 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:07:07,397 INFO 53615 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:07:10,916 INFO 53625 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:07:10,916 INFO 53625 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:07:18,270 INFO 53633 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:07:18,270 INFO 53633 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:07:19,990 INFO 53634 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:07:19,990 INFO 53634 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:13:22,399 INFO 53700 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:13:22,399 INFO 53700 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:13:24,325 INFO 53708 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:13:24,325 INFO 53708 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:13:49,675 INFO 53718 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:13:49,675 INFO 53718 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:13:54,931 INFO 53736 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:13:54,931 INFO 53736 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:13:58,995 INFO 53746 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:13:58,995 INFO 53746 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:15:11,921 INFO 53756 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:15:11,921 INFO 53756 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:19:14,873 INFO 53822 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:19:14,873 INFO 53822 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:19:21,552 INFO 53840 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:19:21,552 INFO 53840 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:19:30,343 INFO 53861 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:19:30,343 INFO 53861 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:19:42,526 INFO 53871 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:19:42,526 INFO 53871 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:20:13,584 INFO 53898 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:20:13,584 INFO 53898 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:20:28,925 INFO 53917 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:20:28,925 INFO 53917 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:20:51,619 INFO 53944 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:20:51,619 INFO 53944 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:21:07,351 INFO 53962 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:21:07,351 INFO 53962 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:21:13,046 INFO 53970 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:21:13,046 INFO 53970 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:21:30,331 INFO 54138 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:21:30,331 INFO 54138 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:21:30,979 INFO 54126 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5909023ms at 2019-02-01 00:00:00.002
+2019-01-31 22:21:30,979 INFO 54126 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5910021ms at 2019-02-01 00:00:01.000
+2019-01-31 22:25:37,916 INFO 54172 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:25:37,917 INFO 54172 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:27:42,944 INFO 54205 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:27:42,944 INFO 54205 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:27:44,527 INFO 54214 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:27:44,527 INFO 54214 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:29:51,116 INFO 54226 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:29:51,116 INFO 54226 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:30:13,495 INFO 54393 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 22:30:13,495 INFO 54393 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 22:30:14,296 INFO 54381 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5385707ms at 2019-02-01 00:00:00.003
+2019-01-31 22:30:14,296 INFO 54381 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5386704ms at 2019-02-01 00:00:01.000
+2019-01-31 23:33:19,639 INFO 56158 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:33:19,639 INFO 56158 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 23:33:20,401 INFO 56146 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1599601ms at 2019-02-01 00:00:00.002
+2019-01-31 23:33:20,402 INFO 56146 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1600599ms at 2019-02-01 00:00:01.001
+2019-01-31 23:36:15,154 INFO 56190 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:36:15,154 INFO 56190 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 23:36:16,848 INFO 56199 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:36:16,848 INFO 56199 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 23:36:33,713 INFO 56208 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:36:33,713 INFO 56208 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 23:36:35,339 INFO 56216 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:36:35,339 INFO 56216 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-31 23:37:46,555 INFO 56229 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-31 23:37:46,555 INFO 56229 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 22:02:58,773 INFO 57591 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 22:02:58,773 INFO 57591 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 22:03:01,607 INFO 57574 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 7018396ms at 2019-02-02 00:00:00.003
+2019-02-01 22:03:01,608 INFO 57574 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 7019393ms at 2019-02-02 00:00:01.001
+2019-02-01 23:32:31,720 INFO 59923 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:32:31,720 INFO 59923 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:32:39,368 INFO 59945 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:32:39,368 INFO 59945 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:32:46,261 INFO 59959 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:32:46,261 INFO 59959 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:32:53,436 INFO 59980 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:32:53,436 INFO 59980 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:33:01,118 INFO 59992 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:33:01,118 INFO 59992 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:33:30,364 INFO 60135 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-02-01 23:33:30,364 INFO 60135 [egg-schedule]: register schedule /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-02-01 23:33:31,007 INFO 60130 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1588995ms at 2019-02-02 00:00:00.002
+2019-02-01 23:33:31,008 INFO 60130 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1589993ms at 2019-02-02 00:00:01.001
+2019-02-01 23:59:59,962 INFO 60135 [Job#15490367999588519596436825781] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-02-01 23:59:59,968 INFO 60135 [Job#15490367999588519596436825781] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 5ms
+2019-02-01 23:59:59,965 INFO 60130 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86400040ms at 2019-02-03 00:00:00.005
+2019-02-02 00:00:00,957 INFO 60135 [Job#15490368009568519606420583811] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-02-02 00:00:00,963 INFO 60135 [Job#15490368009568519606420583811] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 6ms
+2019-02-02 00:00:00,960 INFO 60130 [Timer] /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86400044ms at 2019-02-03 00:00:01.004

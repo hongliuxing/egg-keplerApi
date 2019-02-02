@@ -1,0 +1,329 @@
+{
+  "apiPrefix": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+  "keys": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+  "security": {
+    "xframe": {
+      "enable": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+    },
+    "csrf": {
+      "ignore": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+    }
+  },
+  "cors": {
+    "origin": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "allowMethods": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "credentials": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts"
+  },
+  "static": {
+    "prefix": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "dir": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "dynamic": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-static/config/config.default.js"
+  },
+  "middleware": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+  "redis": {
+    "client": {
+      "port": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+      "host": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+      "password": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+      "db": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+    },
+    "default": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js",
+    "app": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js",
+    "agent": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js",
+    "supportTimeCommand": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js"
+  },
+  "graphql": {
+    "router": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "app": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "agent": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "graphiql": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "onPreGraphQL": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "onPreGraphiQL": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+  },
+  "jwt": {
+    "enable": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "secret": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+  },
+  "sourceUrl": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+  "tablePrefix": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+  "sequelize": {
+    "dialect": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "database": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "host": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "port": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "username": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "password": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+    "dialectOptions": {
+      "charset": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+      "collate": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+      "supportBigNumbers": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+      "bigNumberStrings": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts"
+    },
+    "define": {
+      "underscored": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
+      "charset": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts"
+    },
+    "timezone": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts"
+  },
+  "session": {
+    "maxAge": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js"
+  },
+  "sessionRedis": {
+    "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/config/config.default.js"
+  },
+  "validate": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-validate/config/config.default.js",
+  "env": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "version": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "description": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "private": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "dev": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "debug": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "test": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "ci": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "lint": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "clean": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "await-stream-ready": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "bcryptjs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "dataloader": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-graphql": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-redis": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-router-plus": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-security": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-session": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-session-redis": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "formstream": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "js-md5": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "moment": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "react-router-redux": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "stream-wormhole": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/bcryptjs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/graphql": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/js-md5": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/lodash": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/mocha": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/mysql": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/redis": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/sequelize": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "egg-ts-helper": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "sequelize-cli": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "tslint": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "url": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "author": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "license": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "env": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "level": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "port": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js"
+}

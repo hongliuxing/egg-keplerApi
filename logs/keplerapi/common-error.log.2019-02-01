@@ -1,0 +1,142 @@
+2019-01-31 19:46:36,799 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 573117ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 19:56:52,832 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576011ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:06:48,892 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576052ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:17:05,900 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:27:03,002 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:37:20,046 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577040ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:47:56,072 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576012ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 20:58:13,112 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577033ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 21:08:10,102 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 21:18:27,112 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 21:28:25,002 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 21:38:41,062 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 576045ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 21:49:19,069 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 577989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 22:04:13,098 ERROR 53360 nodejs.ClusterClientNoResponseError: client no response in 874017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 53360
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 23:35:07,436 ERROR 56158 [-/127.0.0.1/-/12ms GET /api/logout] nodejs.TypeError: Cannot read property 'eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=' of null
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Object.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/app.js:14:31)
+    at ContextSession.initFromExternal (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/lib/context.js:89:35)
+    at session (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/index.js:39:32)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-bodyparser/index.js:86:11)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+
+pid: 56158
+hostname: wscartdeMacBook-Pro.local
+
+2019-01-31 23:36:41,677 ERROR 56216 [-/127.0.0.1/-/17ms POST /api/login] nodejs.TypeError: Cannot read property 'eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6IndzY2FydCJ9LCJpc0xvZ2luIjp0cnVlLCJfZXhwaXJlIjoxNTQ5MDE3MDAxMDc4LCJfbWF4QWdlIjo4NjQwMDAwMH0=' of null
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Object.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/app.js:14:31)
+    at ContextSession.initFromExternal (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/lib/context.js:89:35)
+    at session (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-session/index.js:39:32)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-bodyparser/index.js:86:11)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+
+pid: 56216
+hostname: wscartdeMacBook-Pro.local
+
