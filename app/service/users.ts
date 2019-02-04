@@ -9,11 +9,7 @@ export default class UsersService extends Service {
 
     async find(id: number) {
       const { model } = this.ctx;
-      const data = await model.Users.findOne({
-        where: {
-          id,
-        },
-      });
+      const data = await model.Users.findById(id);
       return data;
     }
 

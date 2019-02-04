@@ -161,7 +161,11 @@
       }
     },
     "sessionRedis": {
-      "name": ""
+      "name": "",
+      "key": "EGG_SESSION",
+      "maxAge": 86400000,
+      "httpOnly": true,
+      "encrypt": false
     },
     "graphql": {
       "router": "/graphql",
@@ -232,7 +236,9 @@
       "devDependencies": {
         "@types/bcryptjs": "^2.4.2",
         "@types/graphql": "^14.0.5",
+        "@types/ioredis": "^4.0.6",
         "@types/js-md5": "^0.4.2",
+        "@types/jsonwebtoken": "^8.3.0",
         "@types/lodash": "^4.14.120",
         "@types/mocha": "^2.2.40",
         "@types/mysql": "^2.15.5",
@@ -370,18 +376,23 @@
     "onClientError": null,
     "apiPrefix": "/api",
     "security": {
-      "xframe": {
-        "enable": false
-      },
       "csrf": {
-        "ignore": "<Function ignore>"
-      }
+        "enable": false,
+        "ignoreJSON": true
+      },
+      "domainWhiteList": [
+        "*"
+      ]
     },
     "middleware": [
       "jwt",
       "graphql",
-      "isLogin"
+      "isAuth"
     ],
+    "jwt_extra": {
+      "ttl": 336,
+      "refresh_ttl": 672
+    },
     "sourceUrl": "https://github.com/eggjs/examples/tree/master/keplerapi",
     "tablePrefix": "kepler_",
     "coreMiddlewares": "~config~coreMiddleware",

@@ -2,12 +2,11 @@
   "apiPrefix": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
   "keys": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
   "security": {
-    "xframe": {
-      "enable": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
-    },
     "csrf": {
-      "ignore": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
-    }
+      "enable": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+      "ignoreJSON": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+    },
+    "domainWhiteList": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
   },
   "cors": {
     "origin": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
@@ -35,6 +34,13 @@
     "agent": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js",
     "supportTimeCommand": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-redis/config/config.default.js"
   },
+  "sessionRedis": {
+    "key": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "maxAge": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "httpOnly": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "encrypt": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/config/config.default.js"
+  },
   "graphql": {
     "router": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
     "app": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
@@ -46,6 +52,10 @@
   "jwt": {
     "enable": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
     "secret": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
+  },
+  "jwt_extra": {
+    "ttl": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
+    "refresh_ttl": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts"
   },
   "sourceUrl": "/Users/wscart/Documents/sites/node/keplerApi/config/config.default.ts",
   "tablePrefix": "/Users/wscart/Documents/sites/node/keplerApi/config/config.local.ts",
@@ -146,9 +156,6 @@
     "defaultViewEngine": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js",
     "mapping": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-view/config/config.default.js"
   },
-  "sessionRedis": {
-    "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-session-redis/config/config.default.js"
-  },
   "validate": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-validate/config/config.default.js",
   "env": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
   "name": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
@@ -205,7 +212,9 @@
     "devDependencies": {
       "@types/bcryptjs": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
       "@types/graphql": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/ioredis": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
       "@types/js-md5": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
+      "@types/jsonwebtoken": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
       "@types/lodash": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
       "@types/mocha": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",
       "@types/mysql": "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg/config/config.default.js",

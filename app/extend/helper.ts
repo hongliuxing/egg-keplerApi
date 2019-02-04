@@ -1,4 +1,5 @@
 import { Context } from 'egg';
+import { createHash } from 'crypto';
 module.exports = {
   /*
     * 请求状态
@@ -45,5 +46,13 @@ module.exports = {
     ctx.status = code;
     // 响应返回
     ctx.response.body = response;
+  },
+    /**
+   * 生成 MD5
+   *
+   * @param value 加密的值
+   */
+  generateMD5 (value: string | Buffer | DataView) {
+    return createHash('md5').update(value).digest('hex');
   },
 };

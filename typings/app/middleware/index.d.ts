@@ -3,13 +3,13 @@
 
 import 'egg';
 import ExportExceptions from '../../../app/middleware/exceptions';
-import ExportIsLogin from '../../../app/middleware/isLogin';
-import ExportPermission from '../../../app/middleware/permission';
+import ExportIsAuth from '../../../app/middleware/isAuth';
+import ExportIsPermission from '../../../app/middleware/isPermission';
 
 declare module 'egg' {
   interface IMiddleware {
     exceptions: typeof ExportExceptions;
-    isLogin: typeof ExportIsLogin;
-    permission: typeof ExportPermission;
+    isAuth: typeof ExportIsAuth;
+    isPermission: typeof ExportIsPermission;
   }
 }
