@@ -44,7 +44,7 @@ export default class LoginController extends Controller {
         ctx.session.roleid = res.role_id;
         ctx.session.user = data;
         ctx.session.isLogin = true;
-        const token = await this.service.actionToken.createToken(data);
+        const token = await this.service.actionToken.create(data);
         ctx.helper.toResponse(ctx, 200, null, '注册成功!', token);
       }
     }
@@ -66,7 +66,7 @@ export default class LoginController extends Controller {
           ctx.session.roleid = isLogin.role_id;
           ctx.session.user = data;
           ctx.session.isLogin = true;
-          const token = await this.service.actionToken.createToken(data);
+          const token = await this.service.actionToken.create(data);
           ctx.helper.toResponse(ctx, 200, data, '登录成功!', token);
         } else {
           ctx.helper.toResponse(ctx, 400, null, '密码错误!');

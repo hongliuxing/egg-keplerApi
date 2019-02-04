@@ -1,0 +1,2444 @@
+2019-02-02 11:39:03,947 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 4542253ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 12:17:19,484 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 1975370ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 12:53:01,500 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 2102006ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 13:12:17,591 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 575956ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 13:22:33,636 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 576028ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 13:32:29,627 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 575984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 13:42:45,658 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 576019ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 13:53:01,694 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 576016ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 14:09:58,455 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 576629ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 14:18:44,482 ERROR 60130 nodejs.ClusterClientNoResponseError: client no response in 486015ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 60130
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 17:55:12,733 ERROR 66055 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Cyclic dependency found. kepler_users_permissions is dependent of itself.
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:173:27)
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:212:29)
+    at Toposort.sort (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:252:29)
+    at ModelManager.forEachModel (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model-manager.js:86:21)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:711:25)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Sequelize.sync (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:706:8)
+    at app.beforeStart (/Users/wscart/Documents/sites/node/keplerApi/app.ts:9:23)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:42)
+    at process.nextTick (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/lifecycle.js:249:13)
+    at internalTickCallback (internal/process/next_tick.js:70:11)
+    at process._tickCallback (internal/process/next_tick.js:47:5)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:779:11)
+    at executeUserCode (internal/bootstrap/node.js:342:17)
+    at startExecution (internal/bootstrap/node.js:276:5)
+    at startup (internal/bootstrap/node.js:227:5)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)
+
+pid: 66055
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 17:55:14,394 ERROR 66067 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Cyclic dependency found. kepler_users_permissions is dependent of itself.
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:173:27)
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:212:29)
+    at Toposort.sort (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:252:29)
+    at ModelManager.forEachModel (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model-manager.js:86:21)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:711:25)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Sequelize.sync (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:706:8)
+    at app.beforeStart (/Users/wscart/Documents/sites/node/keplerApi/app.ts:9:23)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:42)
+    at process.nextTick (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/lifecycle.js:249:13)
+    at internalTickCallback (internal/process/next_tick.js:70:11)
+    at process._tickCallback (internal/process/next_tick.js:47:5)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:779:11)
+    at executeUserCode (internal/bootstrap/node.js:342:17)
+    at startExecution (internal/bootstrap/node.js:276:5)
+    at startup (internal/bootstrap/node.js:227:5)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)
+
+pid: 66067
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 17:56:00,597 ERROR 66091 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Cyclic dependency found. kepler_users_permissions is dependent of itself.
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:173:27)
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:212:29)
+    at Toposort.sort (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:252:29)
+    at ModelManager.forEachModel (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model-manager.js:86:21)
+    at Sequelize.drop (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:767:23)
+    at Promise.try.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:704:21)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Sequelize.sync (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:702:8)
+    at app.beforeStart (/Users/wscart/Documents/sites/node/keplerApi/app.ts:9:23)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:42)
+    at process.nextTick (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/lifecycle.js:249:13)
+    at internalTickCallback (internal/process/next_tick.js:70:11)
+    at process._tickCallback (internal/process/next_tick.js:47:5)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:779:11)
+    at executeUserCode (internal/bootstrap/node.js:342:17)
+    at startExecution (internal/bootstrap/node.js:276:5)
+    at startup (internal/bootstrap/node.js:227:5)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)
+
+pid: 66091
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 17:56:02,259 ERROR 66100 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Cyclic dependency found. kepler_users_permissions is dependent of itself.
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+Dependency chain: kepler_users_permissions -> kepler_users_roles => kepler_users_permissions
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:173:27)
+    at visit (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:212:29)
+    at Toposort.sort (/Users/wscart/Documents/sites/node/keplerApi/node_modules/toposort-class/build/toposort.js:252:29)
+    at ModelManager.forEachModel (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model-manager.js:86:21)
+    at Sequelize.drop (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:767:23)
+    at Promise.try.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:704:21)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Sequelize.sync (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:702:8)
+    at app.beforeStart (/Users/wscart/Documents/sites/node/keplerApi/app.ts:9:23)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:42)
+    at process.nextTick (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/lifecycle.js:249:13)
+    at internalTickCallback (internal/process/next_tick.js:70:11)
+    at process._tickCallback (internal/process/next_tick.js:47:5)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:779:11)
+    at executeUserCode (internal/bootstrap/node.js:342:17)
+    at startExecution (internal/bootstrap/node.js:276:5)
+    at startup (internal/bootstrap/node.js:227:5)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)
+
+pid: 66100
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:48:08,094 ERROR 67452 [-/127.0.0.1/-/7ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 67452
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:48:08,104 ERROR 67452 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 67452
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:48:47,711 ERROR 67575 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 67575
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:48:47,767 ERROR 67575 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 67575
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:50:13,280 ERROR 67752 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 67752
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 18:50:13,339 ERROR 67752 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 67752
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:02:41,252 ERROR 68364 nodejs.ClusterClientNoResponseError: client no response in 574429ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 68364
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:12:37,266 ERROR 68364 nodejs.ClusterClientNoResponseError: client no response in 575998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 68364
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:22:54,284 ERROR 68364 nodejs.ClusterClientNoResponseError: client no response in 577009ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 68364
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:28:02,303 ERROR 68364 nodejs.ClusterClientNoResponseError: client no response in 267999ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 68364
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:29:10,320 ERROR 68460 [-/127.0.0.1/-/25ms GET /api/user] nodejs.SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:14:29)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:26:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:37:15)
+
+pid: 68460
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:29:46,375 ERROR 68480 [-/127.0.0.1/-/25ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() { id name } }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68480
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:30:02,437 ERROR 68489 [-/127.0.0.1/-/24ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() {} }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68489
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:30:16,811 ERROR 68499 [-/127.0.0.1/-/24ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() {} }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68499
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:30:29,418 ERROR 68499 [-/127.0.0.1/-/8ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() {} }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68499
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:30:40,362 ERROR 68512 [-/127.0.0.1/-/28ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68512
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:30:54,204 ERROR 68518 [-/127.0.0.1/-/30ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68518
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:31:17,282 ERROR 68543 [-/127.0.0.1/-/39ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68543
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:31:28,640 ERROR 68559 [-/127.0.0.1/-/28ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68559
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:31:46,865 ERROR 68584 [-/127.0.0.1/-/24ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() { id name } }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68584
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:32:07,064 ERROR 68592 [-/127.0.0.1/-/24ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68592
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:34:47,687 ERROR 68673 [-/127.0.0.1/-/24ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+
+GraphQL request (1:8)
+1: { user() { id name } }
+          ^
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseArgument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:331:11)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseArguments (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:321:50)
+    at parseField (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:309:16)
+    at parseSelection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:284:72)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseSelectionSet (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:272:17)
+    at parseOperationDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:194:21)
+    at parseExecutableDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:172:12)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:146:12)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:129:16)
+    at gql (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql-tag/src/index.js:170:10)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:18:32)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":1,"column":8}]
+path: undefined
+pid: 68673
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:35:00,267 ERROR 68681 [-/127.0.0.1/-/26ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68681
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:35:18,235 ERROR 68698 [-/127.0.0.1/-/23ms GET /api/user] nodejs.SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:14:29)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:26:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:37:15)
+
+pid: 68698
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:39:25,143 ERROR 68846 [-/127.0.0.1/-/26ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68846
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:40:27,802 ERROR 68846 [-/127.0.0.1/-/16ms GET /api/user] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at GraphqlService.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/service/graphql.js:20:33)
+    at UsersController.fetch (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:29:49)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68846
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:42:40,006 ERROR 68364 nodejs.ClusterClientNoResponseError: client no response in 101522ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 68364
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:43:49,252 ERROR 68870 [-/127.0.0.1/-/11ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 68870
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:43:49,262 ERROR 68870 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 68870
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:44:48,591 ERROR 69141 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69141
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:44:48,647 ERROR 69141 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69141
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:55:24,009 ERROR 69196 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69196
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:55:24,018 ERROR 69196 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69196
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:57:33,378 ERROR 69263 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69263
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:57:33,429 ERROR 69263 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69263
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:57:47,193 ERROR 69272 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69272
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:57:47,201 ERROR 69272 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69272
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:59:18,666 ERROR 69326 [-/127.0.0.1/-/11ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69326
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:59:18,673 ERROR 69326 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69326
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:59:31,164 ERROR 69342 [-/127.0.0.1/-/18ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: 
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69342
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 19:59:31,215 ERROR 69342 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69342
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:03:34,676 ERROR 69394 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69394
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:03:34,729 ERROR 69394 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69394
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:03:55,332 ERROR 69394 [-/127.0.0.1/-/2ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69394
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:03:55,338 ERROR 69394 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69394
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:13:06,346 ERROR 69528 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69528
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:13:06,353 ERROR 69528 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69528
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:14:21,095 ERROR 69595 [-/127.0.0.1/-/13ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 69595
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:14:21,102 ERROR 69595 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 69595
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:17:51,244 ERROR 70194 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 70194
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:17:51,253 ERROR 70194 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 70194
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:18:07,763 ERROR 70316 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 70316
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:18:07,822 ERROR 70316 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 70316
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:19:38,454 ERROR 70360 [-/127.0.0.1/-/12ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 70360
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:19:38,460 ERROR 70360 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 70360
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:23:29,659 ERROR 70426 [-/127.0.0.1/-/14ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 70426
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:23:29,667 ERROR 70426 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 70426
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:47:41,006 ERROR 70304 nodejs.ClusterClientNoResponseError: client no response in 560899ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 70304
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 20:57:37,040 ERROR 70304 nodejs.ClusterClientNoResponseError: client no response in 576013ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 70304
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 21:07:33,068 ERROR 70304 nodejs.ClusterClientNoResponseError: client no response in 576024ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 70304
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-02 21:11:24,095 ERROR 70304 nodejs.ClusterClientNoResponseError: client no response in 211022ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 70304
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 00:08:23,723 ERROR 81856 [-/127.0.0.1/-/8ms GET /graphql] nodejs.GraphQLError: Syntax Error: Expected Name, found }
+
+GraphQL request (4:1)
+3: 
+4: }
+   ^
+5: type Query {  
+
+    at syntaxError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/error/syntaxError.js:24:10)
+    at expect (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1299:32)
+    at parseName (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:92:15)
+    at parseFieldDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:809:14)
+    at many (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:1348:16)
+    at parseFieldsDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:799:50)
+    at parseObjectTypeDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:757:16)
+    at parseTypeSystemDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:663:16)
+    at parseDefinition (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:143:16)
+    at parseDocument (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:110:22)
+    at Object.parse (/Users/wscart/Documents/sites/node/keplerApi/node_modules/graphql/language/parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts:37:19)
+    at makeExecutableSchema (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/makeExecutableSchema.ts:52:18)
+    at Application.get (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/lib/load_schema.js:56:31)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/app/middleware/graphql.js:60:21
+message: "Syntax Error: Expected Name, found }"
+locations: [{"line":4,"column":1}]
+path: undefined
+pid: 81856
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 00:08:23,734 ERROR 81856 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts'
+    at Object.openSync (fs.js:450:3)
+    at Object.readFileSync (fs.js:350:35)
+    at ErrorView.getFrameSource (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:131:21)
+    at stack.map.frame (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:154:30)
+    at Array.map (<anonymous>)
+    at ErrorView.parseError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:152:18)
+    at ErrorView.toHTML (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/lib/error_view.js:36:24)
+    at Object.html (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-onerror/index.js:84:23)
+    at onerror (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa/lib/application.js:148:32)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-graphql/node_modules/graphql-tools/src/generate/buildSchemaFromTypeDefinitions.ts"
+name: "unhandledRejectionError"
+pid: 81856
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 03:38:11,881 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 573528ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 03:46:31,909 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 480014ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 04:15:12,327 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576007ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 04:25:28,340 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 04:35:45,384 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577031ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 04:45:41,410 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576019ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 04:55:57,453 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:06:13,483 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576012ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:16:09,520 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576023ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:26:25,554 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:36:23,002 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:46:39,001 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 05:56:55,018 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:06:51,008 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:17:08,045 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:27:24,061 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:37:20,057 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:47:36,068 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 06:57:53,095 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 07:07:49,096 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 07:18:05,109 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 07:28:21,115 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 07:38:18,127 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 07:48:34,163 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 08:19:05,263 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576018ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 08:29:02,002 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576732ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 08:39:18,990 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 08:49:35,033 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576026ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 08:59:31,063 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:09:47,033 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:20:03,039 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:30:00,055 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577009ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:36:12,031 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 331970ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:40:54,527 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 222486ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 09:50:50,564 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:01:07,584 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577001ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:10:38,613 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 531005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:20:34,648 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:25:23,666 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 249004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:37:59,517 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 295694ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 10:51:15,419 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575845ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 11:02:01,360 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 165792ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 11:21:38,360 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576828ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 11:31:34,002 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575632ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 11:41:51,020 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 11:52:07,052 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576011ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 12:12:43,250 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576011ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 12:22:39,273 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576015ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 12:32:56,282 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 12:43:12,304 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576007ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 12:53:08,324 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:03:24,298 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575969ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:13:41,298 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:23:37,327 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576024ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:33:53,331 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:36:33,339 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 119990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:46:29,320 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 575968ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 13:56:25,337 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576013ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 14:06:22,350 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 577010ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 16:07:01,395 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 7219041ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 16:54:45,466 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 2864066ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 17:11:27,351 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 981876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 17:21:24,283 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 576923ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 17:53:31,567 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 1907277ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 18:14:07,567 ERROR 81844 nodejs.ClusterClientNoResponseError: client no response in 1215986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 81844
+hostname: wscartdeMacBook-Pro.local
+
+2019-02-03 23:14:37,960 ERROR 83186 [-/127.0.0.1/-/23ms GET /api/user/1] nodejs.TypeError: Cannot read property 'enabled' of null
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:15:24)
+
+pid: 83186
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:14:55,203 ERROR 83211 [-/127.0.0.1/-/19ms GET /api/user/1] nodejs.TypeError: Cannot read property 'enabled' of null
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:15:24)
+
+pid: 83211
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:18:49,016 ERROR 83267 [-/127.0.0.1/-/37ms GET /api/user/1] nodejs.SequelizeEagerLoadingError: kepler_users_role is associated to kepler_users using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+    at Function._getIncludedAssociation (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:591:17)
+    at Function._validateIncludedElement (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:499:53)
+    at options.include.options.include.map.include (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:395:37)
+    at Array.map (<anonymous>)
+    at Function._validateIncludedElements (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:390:39)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1570:14)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1566:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:38:15)
+name: "SequelizeEagerLoadingError"
+pid: 83267
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:19:25,882 ERROR 83291 [-/127.0.0.1/-/30ms GET /api/user/1] nodejs.SequelizeEagerLoadingError: kepler_users_role is associated to kepler_users using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+    at Function._getIncludedAssociation (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:591:17)
+    at Function._validateIncludedElement (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:499:53)
+    at options.include.options.include.map.include (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:395:37)
+    at Array.map (<anonymous>)
+    at Function._validateIncludedElements (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:390:39)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1570:14)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1566:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeEagerLoadingError"
+pid: 83291
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:20:43,094 ERROR 83305 [-/127.0.0.1/-/94ms GET /api/user/1] nodejs.SequelizeDatabaseError: Unknown column 'kepler_users.kepler_users_role_id' in 'field list'
+    at Query.formatError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:247:16)
+    at Query.handler [as onResult] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:68:23)
+    at Query.execute (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/commands/command.js:30:14)
+    at Connection.handlePacket (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:455:32)
+    at PacketParser.onPacket (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:73:18)
+    at PacketParser.executeStart (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:80:31)
+    at Socket.emit (events.js:189:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:145:17)
+From previous event:
+    at Query.run (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:57:12)
+    at Promise.try.then.connection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:558:20)
+From previous event:
+    at Promise.resolve.retryParameters (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:555:8)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/retry-as-promised/index.js:39:21
+    at retryAsPromised (/Users/wscart/Documents/sites/node/keplerApi/node_modules/retry-as-promised/index.js:29:10)
+    at Sequelize.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:454:28)
+    at QueryInterface.select (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/query-interface.js:1104:27)
+    at Promise.try.then.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1598:34)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1595:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'kepler_users.kepler_users_role_id' in 'field list'","sql":"SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'kepler_users.kepler_users_role_id' in 'field list'","sql":"SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"}
+sql: "SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"
+pid: 83305
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:21:00,396 ERROR 83305 [-/127.0.0.1/-/34ms GET /api/user/1] nodejs.SequelizeDatabaseError: Unknown column 'kepler_users.kepler_users_role_id' in 'field list'
+    at Query.formatError (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:247:16)
+    at Query.handler [as onResult] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:68:23)
+    at Query.execute (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/commands/command.js:30:14)
+    at Connection.handlePacket (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:455:32)
+    at PacketParser.onPacket (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:73:18)
+    at PacketParser.executeStart (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/wscart/Documents/sites/node/keplerApi/node_modules/mysql2/lib/connection.js:80:31)
+    at Socket.emit (events.js:189:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:145:17)
+From previous event:
+    at Query.run (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/dialects/mysql/query.js:57:12)
+    at Promise.try.then.connection (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:558:20)
+From previous event:
+    at Promise.resolve.retryParameters (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:555:8)
+    at /Users/wscart/Documents/sites/node/keplerApi/node_modules/retry-as-promised/index.js:39:21
+    at retryAsPromised (/Users/wscart/Documents/sites/node/keplerApi/node_modules/retry-as-promised/index.js:29:10)
+    at Sequelize.query (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/sequelize.js:454:28)
+    at QueryInterface.select (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/query-interface.js:1104:27)
+    at Promise.try.then.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1598:34)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1595:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'kepler_users.kepler_users_role_id' in 'field list'","sql":"SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'kepler_users.kepler_users_role_id' in 'field list'","sql":"SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"}
+sql: "SELECT `kepler_users`.`id`, `kepler_users`.`username`, `kepler_users`.`password`, `kepler_users`.`email`, `kepler_users`.`enabled`, `kepler_users`.`created_at`, `kepler_users`.`updated_at`, `kepler_users`.`role_id`, `kepler_users`.`kepler_users_role_id`, `kepler_users_role`.`id` AS `kepler_users_role.id`, `kepler_users_role`.`name` AS `kepler_users_role.name`, `kepler_users_role`.`type` AS `kepler_users_role.type`, `kepler_users_role`.`enabled` AS `kepler_users_role.enabled`, `kepler_users_role->kepler_users_permission`.`id` AS `kepler_users_role.kepler_users_permission.id`, `kepler_users_role->kepler_users_permission`.`type` AS `kepler_users_role.kepler_users_permission.type`, `kepler_users_role->kepler_users_permission`.`controller` AS `kepler_users_role.kepler_users_permission.controller`, `kepler_users_role->kepler_users_permission`.`action` AS `kepler_users_role.kepler_users_permission.action`, `kepler_users_role->kepler_users_permission`.`enabled` AS `kepler_users_role.kepler_users_permission.enabled` FROM `kepler_users` AS `kepler_users` LEFT OUTER JOIN `kepler_users_roles` AS `kepler_users_role` ON `kepler_users`.`kepler_users_role_id` = `kepler_users_role`.`id` LEFT OUTER JOIN `kepler_users_permissions` AS `kepler_users_role->kepler_users_permission` ON `kepler_users_role`.`id` = `kepler_users_role->kepler_users_permission`.`role_id` WHERE `kepler_users`.`id` = '1';"
+pid: 83305
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:21:30,073 ERROR 83331 [-/127.0.0.1/-/37ms GET /api/user/1] nodejs.SequelizeEagerLoadingError: kepler_users_role is associated to kepler_users using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+    at Function._getIncludedAssociation (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:591:17)
+    at Function._validateIncludedElement (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:499:53)
+    at options.include.options.include.map.include (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:395:37)
+    at Array.map (<anonymous>)
+    at Function._validateIncludedElements (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:390:39)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1570:14)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1566:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeEagerLoadingError"
+pid: 83331
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:21:42,792 ERROR 83331 [-/127.0.0.1/-/11ms GET /api/user/1] nodejs.SequelizeEagerLoadingError: kepler_users_role is associated to kepler_users using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+    at Function._getIncludedAssociation (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:591:17)
+    at Function._validateIncludedElement (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:499:53)
+    at options.include.options.include.map.include (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:395:37)
+    at Array.map (<anonymous>)
+    at Function._validateIncludedElements (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:390:39)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1570:14)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1566:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeEagerLoadingError"
+pid: 83331
+hostname: wscartdeMBP.lan
+
+2019-02-03 23:27:40,072 ERROR 83416 [-/127.0.0.1/-/48ms GET /api/user/1] nodejs.SequelizeEagerLoadingError: kepler_users_permission is not associated to kepler_users!
+    at Function._getIncludedAssociation (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:583:13)
+    at Function._validateIncludedElement (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:499:53)
+    at options.include.options.include.map.include (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:395:37)
+    at Array.map (<anonymous>)
+    at Function._validateIncludedElements (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:390:39)
+    at Promise.try.then.then (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1570:14)
+    at processImmediate (timers.js:632:19)
+From previous event:
+    at Function.findAll (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1566:8)
+    at Function.findOne (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1752:17)
+    at Function.findByPk (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:1718:17)
+    at Function.Model.findById (/Users/wscart/Documents/sites/node/keplerApi/node_modules/sequelize/lib/model.js:4209:25)
+    at UsersService.find (/Users/wscart/Documents/sites/node/keplerApi/app/service/users.ts:12:38)
+    at UsersController.index (/Users/wscart/Documents/sites/node/keplerApi/app/controller/users.ts:36:47)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wscart/Documents/sites/node/keplerApi/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wscart/Documents/sites/node/keplerApi/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at hasPermission (/Users/wscart/Documents/sites/node/keplerApi/app/middleware/permission.ts:39:15)
+name: "SequelizeEagerLoadingError"
+pid: 83416
+hostname: wscartdeMBP.lan
+
+2019-02-04 00:38:59,139 ERROR 82992 nodejs.ClusterClientNoResponseError: client no response in 498118ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Documents/sites/node/keplerApi/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 82992
+hostname: wscartdeMBP.lan
+

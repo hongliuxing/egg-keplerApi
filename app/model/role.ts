@@ -51,6 +51,7 @@ export default (app: Application) => {
   });
 
   role.associate = function() {
+    app.model.Role.hasMany(app.model.Users, { foreignKey: 'role_id' });
     app.model.Role.hasMany(app.model.Permission, { foreignKey: 'role_id' });
   }
 

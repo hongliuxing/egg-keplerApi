@@ -5,11 +5,8 @@ type enabled = '0' | '1';
 
 export interface UserAttributes {
     username: string;
-    nickname: string;
     password: string;
     email: string;
-    avatar: string;
-    level: number;
     enabled: enabled;
 }
 
@@ -22,8 +19,7 @@ export interface UserInstance extends Instance<UserAttributes>, UserAttributes {
 export default (app: Application) => {
     const {
         STRING,
-        ENUM,
-        INTEGER,
+        ENUM
     } = app.Sequelize;
     const tablePrefix = app.config.tablePrefix;
 
@@ -33,11 +29,6 @@ export default (app: Application) => {
             unique: true,
             allowNull: false,
             comment: '用户名',
-        },
-        nickname: {
-            type: STRING(30),
-            allowNull: true,
-            comment: '真实姓名',
         },
         password: {
             type: STRING(255),
@@ -49,17 +40,6 @@ export default (app: Application) => {
             unique: true,
             allowNull: true,
             comment: '邮箱地址',
-        },
-        avatar: {
-            type: STRING(150),
-            allowNull: true,
-            comment: '头像',
-        },
-        level: {
-            type: INTEGER,
-            allowNull: false,
-            defaultValue: 100,
-            comment: '用户级别',
         },
         enabled: {
             type: ENUM(['0', '1']),
@@ -81,7 +61,7 @@ export default (app: Application) => {
     );
 
     user.associate = () => {
-        user.belongsTo(app.model.Role, { as: 'role' });
+        user.belongsTo(app.model.Role, { foreignKey: 'role_id', targetKey: 'id' });
     };
     return user;
 };

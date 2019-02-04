@@ -17,14 +17,14 @@ export default (appInfo: EggAppInfo) => {
   config.apiPrefix = '/api';
   // 加密 cookie 的 key
   config.keys = appInfo.name + '_1544860409189_6203';
+
   // 安全配置
   config.security = {
-    xframe: {
-      enable: false,
-    },
     csrf: {
-      ignore: () => true,
+      enable: false,
+      ignoreJSON: true
     },
+    domainWhiteList: ['*']
   };
 
   // 配置跨域
@@ -38,7 +38,7 @@ export default (appInfo: EggAppInfo) => {
     prefix: '/uploads/',
     dir: path.join(appInfo.baseDir, 'uploads'),
   };
-
+  
   // 自定义配置/未提供 .d.ts 文件的拓展配置
   const customizeConfig = {
     // redis 配置 [ 后面如果需要对某一业务进行缓存的时候，可以开启多实例来进行特定储存 ]
@@ -49,6 +49,12 @@ export default (appInfo: EggAppInfo) => {
         password: 'auth',
         db: 0,
       },
+    },
+    sessionRedis: {
+      key: "EGG_SESSION",
+      maxAge: 24 * 3600 * 1000, // 1 天
+      httpOnly: true,
+      encrypt: false
     },
     graphql: {
       router: '/graphql',
@@ -67,9 +73,20 @@ export default (appInfo: EggAppInfo) => {
       enable: false,
       secret: 'keplerapi',
     },
+    // jwt 额外配置
+    jwt_extra: {
+      ttl: 2 * 7 * 24, // token 过期时间,单位: 小时
+      refresh_ttl: 4 * 7 * 24, // token 可刷新的时间 [失效时间] 单位: 小时
+      // iss: 'atzcl', // 令牌的签发者
+      // iat: 'iat', // 令牌的发布时间 (unix时间戳）
+      // exp: 'exp', // 令牌失效日期 (unix时间戳）
+      // nbf: 'nbf', // 令牌从什么时候可用的时间 (unix时间戳)
+      // sub: 'sub', // 令牌标识 [ 也就是存放我们自己数据的地方 ]
+      // jti: 'jti', // 令牌的唯一标识符 （ sub 和 iat md5 加密后的字符）
+    },
   };
 
-  config.middleware = ['graphql', 'isLogin'];
+  config.middleware = ['graphql', 'isAuth'];
 
   // add your special config in here
   const bizConfig = {

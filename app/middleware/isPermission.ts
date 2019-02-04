@@ -11,9 +11,9 @@ module.exports = (controller: string, action: string) => {
       const data: any = await ctx.service.permission.action({
         controller,
         action,
+        role_id: roleid
       });
-
-      if ( data && data.enabled === '1' && data.role_id === roleid) {
+      if ( data && data.enabled === '1') {
         if (method !== 'get') {
           let info: string;
           switch (method) {
